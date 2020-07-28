@@ -1,5 +1,5 @@
 @extends('layouts.admin')
-@section('title', '北の大地')
+@section('title', 'お店')
 
 @section('content')
     <div class="container">

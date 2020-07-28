@@ -4,9 +4,9 @@ namespace App;
 
 use Illuminate\Database\Eloquent\Model;
 
-class Darts extends Model
+class Project extends Model
 {
     public static $rules = array(
-        'title' => 'required',
+        'store_name' => 'required',
     );//
 }

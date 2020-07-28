@@ -146,8 +146,7 @@ return [
     */
 
     'attributes' => [
-        'title' => 'タイトル',
-        'body' => '本文'
+        'store_name' => '店名',
         ],
 
 ];

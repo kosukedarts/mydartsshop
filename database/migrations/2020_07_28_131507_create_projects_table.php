@@ -4,7 +4,7 @@ use Illuminate\Support\Facades\Schema;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Database\Migrations\Migration;
 
-class CreateDartsTable extends Migration
+class CreateProjectsTable extends Migration
 {
     /**
      * Run the migrations.
@@ -13,9 +13,9 @@ class CreateDartsTable extends Migration
      */
     public function up()
     {
-        Schema::create('darts', function (Blueprint $table) {
+        Schema::create('projects', function (Blueprint $table) {
             $table->bigIncrements('id');
-            $table->string('title'); 
+            $table->string('store_name'); 
             $table->string('image_path')->nullable();
             $table->timestamps();
         });
@@ -28,6 +28,6 @@ class CreateDartsTable extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('darts');
+        Schema::dropIfExists('projects');
     }
 }

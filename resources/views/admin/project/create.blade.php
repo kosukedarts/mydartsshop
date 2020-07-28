@@ -1,11 +1,11 @@
 @extends('layouts.admin')
-@section('title', '北の大地')
+@section('title', 'お店')
 
 @section('content')
     <div class="container">
         <div class="row">
             <div class="col-md-8 mx-auto">
-                <h2>お店の情報追加するよ</h2>
+                <h2>お店の情報追加</h2>
                 <form action="{{ action('Admin\ProjectController@create') }}" method="post" enctype="multipart/form-data">
                 @if (count($errors) > 0)
                         <ul>
@@ -15,13 +15,13 @@
                         </ul>
                     @endif
             　　　　<div class="form-group row">
-                        <label class="col-md-2" for="title">店名</label>
+                        <label class="col-md-2" for="store_name">店名</label>
                         <div class="col-md-10">
-                            <input type="text" class="form-control" name="store name" value="{{ old('store name') }}">
+                            <input type="text" class="form-control" name="store_name" value="{{ old('store_name') }}">
                         </div>
                     </div>
                     <div class="form-group row">
-                        <label class="col-md-2">画像</label>
+                        <label class="col-md-2" for="title">画像</label>
                         <div class="col-md-10">
                             <input type="file" class="form-control-file" name="image">
                         </div>

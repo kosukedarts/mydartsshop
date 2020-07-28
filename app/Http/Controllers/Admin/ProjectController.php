@@ -36,6 +36,7 @@ class projectController extends Controller
       return redirect('admin/project/create');
   }
 
+
 public function index(Request $request)
   {
       $cond_title = $request->cond_title;
