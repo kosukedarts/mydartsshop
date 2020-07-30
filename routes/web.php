@@ -19,6 +19,9 @@ Route::group(['prefix' => 'admin', 'middleware' => 'auth'], function() {
     Route::get('project/create', 'Admin\ProjectController@add');
     Route::post('project/create', 'Admin\ProjectController@create');
     Route::get('project', 'Admin\ProjectController@index');
+    Route::get('project/edit', 'Admin\ProjectController@edit'); // 追記
+    Route::post('project/edit', 'Admin\ProjectController@update');
+    Route::get('project/delete', 'Admin\ProjectController@delete');
 });
 
 Auth::routes();
@@ -28,3 +31,5 @@ Route::get('/home', 'HomeController@index')->name('home');
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
+
+Route::get('/', 'ProjectController@index');

@@ -32,14 +32,23 @@
                         <thead>
                             <tr>
                                 <th width="10%">ID</th>
-                                <th width="20%">タイトル</th>
+                                <th width="20%">店名</th>
+                                <th width="10%">操作</th>
                             </tr>
                         </thead>
                         <tbody>
-                            @foreach($posts as $news)
+                            @foreach($posts as $project)
                                 <tr>
-                                    <th>{{ $news->id }}</th>
-                                    <td>{{ \Str::limit($news->title, 100) }}</td>
+                                    <th>{{ $project->id }}</th>
+                                    <td>{{ \Str::limit($project->store_name, 100) }}</td>
+                                    <td>
+                                        <div>
+                                            <a href="{{ action('Admin\ProjectController@edit', ['id' => $project->id]) }}">編集</a>
+                                        </div>
+                                        <div>
+                                            <a href="{{ action('Admin\ProjectController@delete', ['id' => $project->id]) }}">削除</a>
+                                        </div>
+                                    </td>
                                 </tr>
                             @endforeach
                         </tbody>
