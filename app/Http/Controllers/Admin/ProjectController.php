@@ -1,19 +1,21 @@
 <?php
 
 namespace App\Http\Controllers\Admin;
+
 use Illuminate\Http\Request;
 use App\Http\Controllers\Controller;
 use App\Project;
 use Carbon\Carbon;
 use App\History;
+use Storage;
 
 class ProjectController extends Controller
 {
   public function add()
   {
       return view('admin.project.create');
+      
   }
-
 
 
   public function create(Request $request)
@@ -23,8 +25,8 @@ class ProjectController extends Controller
       $form = $request->all();
       
       if (isset($form['image'])) {
-        $path = $request->file('image')->store('public/image');
-        $project->image_path = basename($path);
+        $path = Storage::disk('s3')->putFile('/',$form['image'],'public');
+        $project->image_path = Storage::disk('s3')->url($path);
       } else {
           $project->image_path = null;
       }
