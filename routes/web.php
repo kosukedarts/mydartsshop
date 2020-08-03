@@ -22,7 +22,8 @@ Route::group(['prefix' => 'admin', 'middleware' => 'auth'], function() {
     Route::get('project/edit', 'Admin\ProjectController@edit'); // 追記
     Route::post('project/edit', 'Admin\ProjectController@update');
     Route::get('project/delete', 'Admin\ProjectController@delete');
-    Route::get('project/create', 'Admin\ProjectController@add');
+    
+    Route::get('project/hive', 'Admin\ProjectController@add');
 });
 
 Auth::routes();

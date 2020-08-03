@@ -14,7 +14,6 @@ class ProjectController extends Controller
   public function add()
   {
       return view('admin.project.create');
-      
   }
 
 

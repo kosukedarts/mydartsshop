@@ -1,11 +1,13 @@
+
+
 <!DOCTYPE html>
 <html lang="{{ app()->getLocale() }}">
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-
-        <!-- CSRF Token -->
+　　　　<title>kosukeのダーツ日記</title>
+　　　　<!-- CSRF Token -->
          {{-- 後の章で説明します --}}
         <meta name="csrf-token" content="{{ csrf_token() }}">
 
@@ -25,10 +27,13 @@
         <link href="{{ secure_asset('css/app.css') }}" rel="stylesheet">
         {{-- この章の後半で作成するCSSを読み込みます --}}
         <link href="{{ asset('css/front.css') }}" rel="stylesheet">
-    </head>
-    <body>
-        <div id="app">
-            {{-- 画面上部に表示するナビゲーションバーです。 --}}
+　　</head>
+　　 <body>
+      <h1><center><a href="http://5ab816667ade45009462a2e3a30e0349.vfs.cloud9.us-east-2.amazonaws.com/" style="text-decoration: none;">kosukeのきままなダーツ日記</a></center></h1>
+      <hr>
+      <p><center>私の私による私のためのダーツ日記</center></p>
+      <div id="app">
+      {{-- 画面上部に表示するナビゲーションバーです。 --}}
             <nav class="navbar navbar-expand-md navbar-dark navbar-laravel">
                 <div class="container">
                     <a class="navbar-brand" href="{{ url('/') }}">
@@ -80,6 +85,8 @@
                 {{-- コンテンツをここに入れるため、@yieldで空けておきます。 --}}
                 @yield('content')
             </main>
-        </div>
     </body>
+　　<footer>
+  　　<p><center>Copyright ©kosukeのダーツ日記 All rights reserved.</center></p>
+　　</footer>
 </html>
