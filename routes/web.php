@@ -22,8 +22,13 @@ Route::group(['prefix' => 'admin', 'middleware' => 'auth'], function() {
     Route::get('project/edit', 'Admin\ProjectController@edit'); // 追記
     Route::post('project/edit', 'Admin\ProjectController@update');
     Route::get('project/delete', 'Admin\ProjectController@delete');
-    
-    Route::get('project/hive', 'Admin\ProjectController@add');
+    Route::get('project/hive', 'Admin\ProjectController@hive');
+    Route::get('project/arban', 'Admin\ProjectController@arban');
+    Route::get('project/teine', 'Admin\ProjectController@teine');
+    Route::get('project/minami', 'Admin\ProjectController@minami');
+    Route::get('project/kaikatsu', 'Admin\ProjectController@kaikatsu');
+    Route::get('project/roundone', 'Admin\ProjectController@roundone');
+    Route::get('project/dice', 'Admin\ProjectController@dice');
 });
 
 Auth::routes();

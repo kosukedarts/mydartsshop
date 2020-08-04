@@ -15,6 +15,41 @@ class ProjectController extends Controller
   {
       return view('admin.project.create');
   }
+  
+  public function hive()
+  {
+      return view('admin.project.hive');
+  }
+  
+  public function arban()
+  {
+      return view('admin.project.arban');
+  }
+  
+  public function teine()
+  {
+      return view('admin.project.teine');
+  }
+  
+  public function minami()
+  {
+      return view('admin.project.minami');
+  }
+  
+  public function kaikatsu()
+  {
+      return view('admin.project.kaikatsu');
+  }
+  
+  public function roundone()
+  {
+      return view('admin.project.roundone');
+  }
+  
+  public function dice()
+  {
+      return view('admin.project.dice');
+  }
 
 
   public function create(Request $request)

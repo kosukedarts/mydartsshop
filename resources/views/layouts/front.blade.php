@@ -29,7 +29,9 @@
         <link href="{{ asset('css/front.css') }}" rel="stylesheet">
 　　</head>
 　　 <body>
-      <h1><center><a href="http://5ab816667ade45009462a2e3a30e0349.vfs.cloud9.us-east-2.amazonaws.com/" style="text-decoration: none;">kosukeのきままなダーツ日記</a></center></h1>
+      <div class="container">
+      <div class="header-title-area">
+      <h1><center><a href="https://5ab816667ade45009462a2e3a30e0349.vfs.cloud9.us-east-2.amazonaws.com/" style="text-decoration: none;">kosukeのきままなダーツ日記</a></center></h1>
       <hr>
       <p><center>私の私による私のためのダーツ日記</center></p>
       <div id="app">
@@ -86,7 +88,4 @@
                 @yield('content')
             </main>
     </body>
-　　<footer>
-  　　<p><center>Copyright ©kosukeのダーツ日記 All rights reserved.</center></p>
-　　</footer>
 </html>
