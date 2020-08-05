@@ -1,5 +1,5 @@
 @extends('layouts.admin')
-@section('title', 'お店')
+@section('title', 'お店の展開')
 
 @section('content')
     <div class="container">
@@ -18,6 +18,12 @@
                         <label class="col-md-2" for="store_name">店名</label>
                         <div class="col-md-10">
                             <input type="text" class="form-control" name="store_name" value="{{ old('store_name') }}">
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <label class="col-md-2" for="body">本文</label>
+                        <div class="col-md-10">
+                            <textarea class="form-control" name="body" rows="20">{{ old('body') }}</textarea>
                         </div>
                     </div>
                     <div class="form-group row">
