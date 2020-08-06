@@ -16,8 +16,9 @@ class ProjectController extends Controller
         } else {
             $headline = null;
         }
+
         // news/index.blade.php ファイルを渡している
         // また View テンプレートに headline、 posts、という変数を渡している
-        return view('project.index', ['headline' => $headline, 'posts' => $posts]);
+        return view('project.index', ['posts' => $posts]);
     }
 }

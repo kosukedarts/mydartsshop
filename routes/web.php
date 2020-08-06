@@ -15,7 +15,7 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::group(['prefix' => 'admin', 'middleware' => 'auth'], function() {
+Route::group(['prefix' => 'admin',], function() {
     Route::get('project/create', 'Admin\ProjectController@add');
     Route::post('project/create', 'Admin\ProjectController@create');
     Route::get('project', 'Admin\ProjectController@index');
