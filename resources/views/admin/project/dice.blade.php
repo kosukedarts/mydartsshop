@@ -3,7 +3,7 @@
 
 @section('content')
         <div class="container">
-        <figure class="card-thumbnail shop-only">
+        <figure>
         <h2>DiCE札幌狸小路本店</h2> 
           <h11>　　dartslive公式→<a href="https://search.dartslive.com/jp/shop/1ee2e5140966d70da3f63593b5358cc4">https://search.dartslive.com/jp/shop/1ee2e5140966d70da3f63593b5358cc4</a></h11>
         　<h11>    公式twiter→<a href="https://twitter.com/DiCE_SPR">DiCE_SPR</a></h11>
@@ -16,7 +16,7 @@
                 <span><img src="https://msp.c.yimg.jp/images/v2/FUTi93tXq405grZVGgDqG1CUJcKVyH0ZtJ71bnY67k-0o-oAEopDfLn5Y_N3oVi2K8YC3SPTYx0td3S9T8amNlN-xB86tTSOYQ1rgKczVHiUqbYeNaxfopykd4To3fj3cxX7zPqm4TeG0YYpUYhn1Abp4CQfQywbx73X8QJ0th0mjvgyz7Q5pt-FAedyKjm3HdLD_Ensr12pFTum0hDRdq-sCXSRfBkmPQU0vx-JMd6vmzfWTqIIhCugqnEgUGN8vrpI53uA-lBPqFtPc4hPzLPSKBWEWhRZMFKcrg799ZJfLuBfQkowlTsE0vfJquVYNT56J1M_DronlCVas3hPWJzy-RHpM8raVv8IpOG_iBGJHyKrgJfQVtfhZLwPF8U0HKqry-aqYl1Eh8-dXPhGd4T7SkFg1I01xd1zd62hu-AEkqPcFT8VAl6K9gW8ZIkxed40qq5LZVZVYzF8tp7hYQqPD5UE74rQkkPktY8XJAf7ssyij3RBQaESZ5Jk_kvN015QlB4Lgy30TvK0y4eXH9TGlJ0dZvlyQJ8CvTN1sU32M6prIySX-3shE6yQH6kqG_sC0E6T9cEXUujDfaisixY-pn6lSxTGhD98CMwguhCEIwwBFPXRcHYaVPvfo0OQ?errorImage=false" width="200" height="200"></span>
                   <div style="margin-bottom:25px"></div>
                   <p>　　　　ダーツ用品をそろえるならここ！！<br>　　　　ダーツ用品、品揃え豊富なダーツショップ。北海道最大級の品揃えでソフトダーツ用品はもちろん、ハード用ダーツも多数。ダーツを始めたいという人もバレルを　　　　買い買いたいという人もハイブ札幌に行けば１日で解決します。<br>　　　　私もダーツを始めようと思ったとき、ここを最初に訪れました。</p>   
-    
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2915.253228879229!2d141.35022605061576!3d43.05714139868455!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5f0b29852578a5bf%3A0xe0903aa6cbc3681f!2z44OA44Kk44K5IOacreW5jOeLuOWwj-i3r-acrOW6l--8iOWujOWFqOWAi-WupOODu-ODjeODg-ODiOOCq-ODleOCp-ODu-OCq-ODqeOCquOCseODu-ODgOODvOODhO-8iQ!5e0!3m2!1sja!2sjp!4v1596795656897!5m2!1sja!2sjp"width="550" height="550" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
                 </body>
         　　    <div class="row">
               <div class="col-md-8 mx-auto">

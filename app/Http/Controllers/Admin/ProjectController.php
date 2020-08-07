@@ -41,9 +41,9 @@ class ProjectController extends Controller
       return view('admin.project.kaikatsu');
   }
   
-  public function roundone()
+  public function round()
   {
-      return view('admin.project.roundone');
+      return view('admin.project.round');
   }
   
   public function dice()
