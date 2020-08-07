@@ -28,6 +28,14 @@
         <link href="{{ secure_asset('css/app.css') }}" rel="stylesheet">
         {{-- この章の後半で作成するCSSを読み込みます --}}
         <link href="{{ asset('css/front.css') }}" rel="stylesheet">
+　　    <style>
+            body {
+            margin-left:250px;
+                }
+            body {
+            margin-right:250px;
+                }
+        </style>
 　　</head>
 　　 <body>
       <div class="container">
