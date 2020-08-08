@@ -15,9 +15,9 @@
                         </ul>
                     @endif
                     <div class="form-group row">
-                        <label class="col-md-2" for="store_name">店名</label>
+                        <label class="col-md-2" for="title">店名</label>
                         <div class="col-md-10">
-                            <input type="text" class="form-control" name="store_name" value="{{ $project_form->title }}">
+                            <input type="text" class="form-control" name="title" value="{{ $project_form->title }}">
                         </div>
                     </div>
                     <div class="form-group row">

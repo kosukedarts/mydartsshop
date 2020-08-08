@@ -25,16 +25,16 @@
         <link href="{{ secure_asset('css/app.css') }}" rel="stylesheet">
         {{-- この章の後半で作成するCSSを読み込みます --}}
         <link href="{{ secure_asset('css/admin.css') }}" rel="stylesheet">
+    </head>
+    <body>
         <style>
             body {
-            margin-left:250px;
+            margin-left:200px;
                 }
             body {
-            margin-right:250px;
+            margin-right:200px;
                 }
         </style>
-    </head>
-    <header>
       <p>
         <div style="margin-bottom:30px"></div>
     　</p>
@@ -42,7 +42,7 @@
       <hr>
       <h5><center>私が今まで行ったことのある札幌のダーツショップやダーツが出来るネットカフェについて独断と偏見で綴っていきます。</center></h5>
       <h5><center>これからも新しいダーツショップやダーツバーを開拓していく予定なので、その都度更新していきます。</center></h5>
-      <div id="app">
+            <div id="app">
                     <a class="navbar-brand" href="{{ url('/') }}">
                         {{ config('app.name', 'Laravel') }}
                     </a>
@@ -53,12 +53,9 @@
                     <div class="collapse navbar-collapse" id="navbarSupportedContent">
                         <!-- Left Side Of Navbar -->
                         <ul class="navbar-nav mr-auto">
-
                         </ul>
-
                         <!-- Right Side Of Navbar -->
                         <ul class="navbar-nav ml-auto">
-                       
                         </ul>
                     </div>
                 </div>
@@ -70,7 +67,7 @@
                 @yield('content')
             </main>
         </div>
-    </header>
+    </body>
     <footer>
   　　<p><center>Copyright ©kosukeのダーツ日記 All rights reserved.</center></p>
 　　</footer>

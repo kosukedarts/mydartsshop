@@ -9,7 +9,7 @@ class Project extends Model
     protected $guarded = array('id');
    
     public static $rules = array(
-        'store_name' => 'required',
+        'title' => 'required',
         'body' => 'required',
     );//
 

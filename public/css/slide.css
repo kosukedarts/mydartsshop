@@ -1,0 +1,82 @@
+@charset "UTF-8";
+
+.cp_cssslider {
+  width: 400px;
+  height: 400px;
+  overflow: hidden;
+  margin: 2em auto;
+  border: 10px solid #ffffff;
+  box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.5);
+}
+
+.cp_slide_item {
+  width: 400px;
+  height: 400px;
+  float: left;
+  position: relative;
+}
+
+.cp_slidewrapper {
+  width: 500%;
+  /* slideの枚数×100% */
+  position: relative;
+  left: 0;
+  -webkit-animation: slider 20s infinite ease;
+          animation: slider 20s infinite ease;
+  /* スピード */
+}
+
+@-webkit-keyframes slider {
+  /* 100%を枚数で割った%に割り振る */
+  0% {
+    transform: translateX(0);
+  }
+
+  20% {
+    transform: translateX(-400px);
+  }
+
+  40% {
+    transform: translateX(-600px);
+  }
+
+  60% {
+    transform: translateX(-900px);
+  }
+
+  80% {
+    transform: translateX(-1200px);
+  }
+
+  100% {
+    transform: translateX(0);
+  }
+}
+
+@keyframes slider {
+  /* 100%を枚数で割った%に割り振る */
+  0% {
+    transform: translateX(0);
+  }
+
+  20% {
+    transform: translateX(-400px);
+  }
+
+  40% {
+    transform: translateX(-800px);
+  }
+
+  60% {
+    transform: translateX(-1200px);
+  }
+
+  80% {
+    transform: translateX(-1600px);
+  }
+
+  100% {
+    transform: translateX(0);
+  }
+}
+
