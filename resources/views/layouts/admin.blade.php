@@ -36,18 +36,14 @@
                 }
         </style>
       <p>
-        <div style="margin-bottom:30px"></div>
-    　</p>
+          <div style="margin-bottom:23px"></div>
+      </p>
       <h1><center><a href="https://5ab816667ade45009462a2e3a30e0349.vfs.cloud9.us-east-2.amazonaws.com/" style="text-decoration: none;">kosukeのきままなダーツ日記</a></center></h1>
       <hr>
       <h5><center>私が今まで行ったことのある札幌のダーツショップやダーツが出来るネットカフェについて独断と偏見で綴っていきます。</center></h5>
       <h5><center>これからも新しいダーツショップやダーツバーを開拓していく予定なので、その都度更新していきます。</center></h5>
             <div id="app">
-                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                        <span class="navbar-toggler-icon"></span>
-                    </button>
-
-                    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+              <div class="collapse navbar-collapse" id="navbarSupportedContent">
                         <!-- Left Side Of Navbar -->
                         <ul class="navbar-nav mr-auto">
                         </ul>
