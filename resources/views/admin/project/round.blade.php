@@ -6,7 +6,7 @@
 　　　　<head>
 　　　　<div class="container"></div>
         <figure>
-        <h2>ラウンドワン札幌すすきの店 <img src="https://card.dartslive.com/t_prm/img/tmico/d2a2434efb626757aa22845c83943e4f53a607be00cc1f17b7dde635cc4d22bc709.jpg" alt=""></h2> 
+        <h2>ラウンドワン札幌すすきの店</h2> 
           <h11>　　dartslive公式→<a href="https://search.dartslive.com/jp/shop/94e6f4247653b97e0d9b047a20a7ba1e">https://search.dartslive.com/jp/shop/94e6f4247653b97e0d9b047a20a7ba1e</a></h11>
         　<h11>    店舗HP→<a href="http://www.round1.co.jp/">http://www.round1.co.jp/</a></h11>
         </figure>
