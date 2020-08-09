@@ -57,13 +57,13 @@
 								<td><a href="http://www.dartshive.com/sapporo.html" target="_blank" >http://www.dartshive.com/sapporo.html</a></td>
 						</tr>
 						<tr>
-								<th>Twitter</th>
+						<th>Twitter</th>
 								<td><a href="//twitter.com/hive_sapporo" target="_blank">hive_sapporo</a></td>
-						</tr>
+							</tr>
 						<tr>
 								<th>SNS</th>
 								<td><a href="https://www.facebook.com/DARTSHiVe.sapporo/" target="_blank">https://www.facebook.com/DARTSHiVe.sapporo/</a></td>
-						</tr>
+							</tr>
 						</tbody>
 				</table>
 			</section>
