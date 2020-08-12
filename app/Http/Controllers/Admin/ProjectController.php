@@ -36,9 +36,9 @@ class ProjectController extends Controller
       return view('admin.project.minami');
   }
   
-  public function kaikatsu()
+  public function kai()
   {
-      return view('admin.project.kaikatsu');
+      return view('admin.project.kai');
   }
   
   public function round()

@@ -13,15 +13,15 @@
     　<div class="one">
 　　　<span><img src="https://msp.c.yimg.jp/images/v2/FUTi93tXq405grZVGgDqG_omiYkNVym1Sd6g5T38MuSPo2g0HkTDTZveS_4OZQJDiuMp5aZQlF7lep3ot5pPpkaVyPM2oMOzO7OqapMlEaDbRAWtbi2q97zRW_ggiAnxeOTlmBWvYy3kUs_vvafB_3u8MbHVAgk_ch-EDc-GnwI=?errorImage=false" width="300" height="240" ></span>
       <span><img src="https://msp.c.yimg.jp/images/v2/FUTi93tXq405grZVGgDqGwRmqGP9lHKQfav9FsvczrSUUkAHLdnbfXno72e_S1NEmtx_RDvBt5CxdlIn4WGIr6wBP8EzqkgCi2csuwcSwYbmkWSQ51oYeZ_hSUCEkvdDFU6_OIsT_FOECsnL_zJhLRTgJWIIKwvCxMAqGQkEH46ElFN8czfhj9tsJLw5dcyPJzB1bKywCNYil1RSgmvGvl1GG9_8op3AFxQLEajZJFxQjTstgIsvbPV10-7tirHCYpYihcniAcRaBRqed_7ryPAN60-Q5en0KtDb0A166VACPU9dLLiVY8vIQw6oc44Z?errorImage=false" width="300" height="240" ></span>
-      <span><img src="https://dl.cdn.dartslive.com/search/photo/94e6f4247653b97eded42ea7826dcb91.jpg?1596989809783" width="300" height="240" ></span>
+      <span><img src="https://msp.c.yimg.jp/images/v2/FUTi93tXq405grZVGgDqG8g9dFktImnaS3Jd0022WUuSwbe51FJMClfq5-LdkqaA0z_T8Fv6jmTtZmD4nBgWoucXap4YUAUGQETYJVUU84OQUXnL0Hnuhk7F_LEh0YCcfi5Xr5ubAFhLymuTPZNSSc0vUIn1tycLefABGEBcUrvkurylwE6APsZ01dkmase_XCDBoiiQ1HxzsJzRT-p6l8aTQlBojxgPwhaTQ-cVD4U=?errorImage=false" width="300" height="240" ></span>
       <div style="margin-bottom:25px"></div>
-      <h3>ラウンドワンといえばボーリングやスポッチャの印象の人も多いかと思います。<div>
+      <h5>ラウンドワンといえばボーリングやスポッチャの印象の人も多いかと思います。<div>
     ですがダーツするならラウワンといってもいいほど設備が充実している所が多いです。<div>
-    中でもすすきの店はダーツライブ３が３台！他のネットカフェと比べれば少し割高ですが、幅も広く取られているので友人とワイワイやりたいならラウンドワンすすきの店を私はおすすめします。</div></h3>
+    中でもすすきの店はダーツライブ３が３台！他のネットカフェと比べれば少し割高ですが、幅も広く取られているので友人とワイワイやりたいならラウンドワンすすきの店を私はおすすめします。</div></h5>
     <div style="margin-bottom:50px"></div>
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2915.39388286631!2d141.35180625061568!3d43.054182798873754!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5f0b29869d52b8e9%3A0xfa8472452c7d0feb!2z44Op44Km44Oz44OJ44Ov44OzIOacreW5jOOBmeOBmeOBjeOBruW6lw!5e0!3m2!1sja!2sjp!4v1596990928967!5m2!1sja!2sjp" width="400" height="400" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2915.39388286631!2d141.35180625061568!3d43.054182798873754!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5f0b29869d52b8e9%3A0xfa8472452c7d0feb!2z44Op44Km44Oz44OJ44Ov44OzIOacreW5jOOBmeOBmeOBjeOBruW6lw!5e0!3m2!1sja!2sjp!4v1596990928967!5m2!1sja!2sjp" width="400" height="400" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0" align="left"></iframe>
     <section class="shop-data-table">
-        <table border="5" "margin-left:30px" style="font-size: 15pt; line-height: 200%;">
+        <table border="6" align="right" style="font-size: 16pt; line-height: 200%;">
             <tr>
 								<th>営業時間 </th>
 								<td>
@@ -67,6 +67,27 @@
 				</table>
 			</section>
 		</div> <br clear="left"> </p>
+        <div style="margin-bottom:50px"></div>
+        <h3>◆ラウンドワン札幌すすきの店
+        <h6>ラウンドワン札幌すすきの店のダーツ設備は以下の通り。</h6>
+        　　<p>：ダーツライブ3　×3台</p>
+　　　　　　<p>：ダーツライブ2　×3台</p>
+　　　　　　<p>：vsフェニックス　×4台</p>
+            <p>：vsフェニックスⅩ　×1台</P>
+            <p>最近ライブ３が３台に増大されライブ派は歓喜ですね！！さらにフェニックスⅩという全面スクリーンの最新ダーツマシンもあります。</p>
+        　　<p>ラウンドワンはフリータイム制度があるので投げれば投げるほど料金的にお得になります。ただ無理は禁物ですよ(腕のご利用は計画的に)。</p>
+        <div style="margin-bottom:50px"></div>
+        <h3>◆どんな雰囲気？</h3>
+            <p>明るくてざわざわしています。１人で投げている人もいますが複数人で投げている人の方が多い印象があります。</p>
+            <p>ダーツを目的で来たという人よりはゲーセンやボウリングをしたついでに少し投げているという人が多いです。</p>
+        <div style="margin-bottom:50px"></div>
+        <h3>◆直してほしいところ、不満点？</h3>
+            <p></p>
+        　　<P></P>
+        <div style="margin-bottom:50px"></div>
+        <h3>◆まとめ</h3>
+            <p></p>
+            <P></P>
         </body>
         <div class="row">
         <div class="col-md-8 mx-auto">

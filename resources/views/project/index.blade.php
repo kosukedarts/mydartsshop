@@ -18,6 +18,9 @@
                                 <div class="body mt-3">
                                     {{ str_limit($post->body, 1500) }}
                                 </div>
+                                <div class="url">
+                                    {{ str_limit($post->url, 150) }}
+                                </div>
                             </div>
                             <div class="image col-md-6 text-right mt-4">
                                 @if ($post->image_path)

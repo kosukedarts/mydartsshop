@@ -18,7 +18,7 @@
     入り口がわかりずらく私が初めて行った時は少し迷ったのを覚えています笑。<div>
     ダーツが出来る自遊空間の中でも品揃えがよくタングステンダーツの試投も出来ます。</div></h3>
       <div style="margin-bottom:50px"></div>
-      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2915.21193352999!2d141.35261165061578!3d43.058009998629046!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5f0b29837144ad1d%3A0x1d16ff5d479b43a6!2z44K544Oa44O844K544Kv44Oq44Ko44Kk44OI6Ieq6YGK56m66ZaTIOacreW5jOWNl--8kuadoeW6lw!5e0!3m2!1sja!2sjp!4v1596987542456!5m2!1sja!2sjp" width="400" height="400" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2915.21193352999!2d141.35261165061578!3d43.058009998629046!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5f0b29837144ad1d%3A0x1d16ff5d479b43a6!2z44K544Oa44O844K544Kv44Oq44Ko44Kk44OI6Ieq6YGK56m66ZaTIOacreW5jOWNl--8kuadoeW6lw!5e0!3m2!1sja!2sjp!4v1596987542456!5m2!1sja!2sjp" width="400" height="400" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0" align="left"></iframe>
         <section class="shop-data-table">
         <table border="5" "margin-left:30px" style="font-size: 15pt; line-height: 200%;">
 						<tr>

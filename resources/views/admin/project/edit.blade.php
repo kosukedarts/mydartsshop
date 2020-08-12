@@ -27,6 +27,12 @@
                         </div>
                     </div>
                     <div class="form-group row">
+                        <label class="col-md-2" for="url">リンク</label>
+                        <div class="col-md-10">
+                            <input type="text" class="form-control" name="url" value="{{ $news_form->url }}">
+                        </div>
+                    </div>
+                    <div class="form-group row">
                         <label class="col-md-2" for="image">画像</label>
                         <div class="col-md-10">
                             <input type="file" class="form-control-file" name="image">

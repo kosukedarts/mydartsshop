@@ -1,5 +1,5 @@
 @extends('layouts.admin')
-@section('title', 'お店')
+@section('title', 'お店一覧')
 
 @section('content')
     <div class="container">
@@ -33,7 +33,8 @@
                             <tr>
                                 <th width="10%">ID</th>
                                 <th width="20%">店名</th>
-                                <th width="50%">本文</th>
+                                <th width="40%">本文</th>
+                                <th width="20%">リンク</th>
                                 <th width="10%">操作</th>
                             </tr>
                         </thead>
@@ -43,6 +44,7 @@
                                     <th>{{ $project->id }}</th>
                                     <td>{{ \Str::limit($project->title, 100) }}</td>
                                     <td>{{ str_limit($project->body, 250) }}</td>
+                                    <td>{{ \Str::limit($project->url, 100) }}</td>
                                     <td>
                                         <div>
                                             <a href="{{ action('Admin\ProjectController@edit', ['id' => $project->id]) }}">編集</a>

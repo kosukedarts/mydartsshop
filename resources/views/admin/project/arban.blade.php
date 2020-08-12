@@ -14,13 +14,13 @@
       <span><img src="https://msp.c.yimg.jp/images/v2/FUTi93tXq405grZVGgDqG_omiYkNVym1Sd6g5T38MuQPbihA5-eLGDB5geiIQZ2Bz5uInRJPTrZKlCyNMEzhfUaVyPM2oMOzO7OqapMlEaDbRAWtbi2q97zRW_ggiAnx00tasO5j5JMLao3jFB51-14QxfhntabRP2NOYiW7ESE=?errorImage=false" width="300" height="240" ></span>
       <span><img src="https://msp.c.yimg.jp/images/v2/FUTi93tXq405grZVGgDqG-Bd7WfZVnFnM15Po707LUsY7suobAlp-fyfIxP2frLeEBJYik2cMRQT_ub5YEhyA94hwYWRI3HC8OHMdyihQprDbKnKP2rAWHTiPTXbpRKUZPHjZAi9p4ZKdGSw8n-6aLSVfUK55aj0r0SHJoX1KApGlcjzNqDDszuzqmqTJRGgJ6XCOhkQraLZR-XmpPByCmkQC__xt-5lt3aezlSM8Y97_KWv0T_u_h4fYinTN4y9fpVTIgSAwUSma_Q1JFcppXwQyHKFq_W9Ot1FTTGKg3LmxzBu-FLDnUqgUpo79Iny4pPew5-9Bqi9rkELKOTNjQ==?errorImage=false" width="300" height="240" ></span>
       <div style="margin-bottom:25px"></div>
-      <h3>狸小路から１本南側、ノルベサの近くにある自遊空間アーバン札幌店。<div>
-    私が初めて行ったネットカフェでもあるので少し愛着もあります笑。<div>
-    ダーツライブ３も一台あるので運がよければライブ３を格安で投げ放題！？</div></h3>
+      <h5>狸小路から１本南側、ノルベサの近くにある自遊空間アーバン札幌店。<div>
+    私が初めて行ったネットカフェでもあるので少し愛着もあります。<div>
+    ダーツライブ３も一台あるので運がよければライブ３を格安で投げ放題！？</div></h5>
       <div style="margin-bottom:50px"></div>
-      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2915.292683710793!2d141.34978005061572!3d43.05631149873763!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5f0b2984f7007d33%3A0x39581aad1cec34b2!2z6Ieq6YGK56m66ZaTIOOCouODvOODkOODs-acreW5jOW6lw!5e0!3m2!1sja!2sjp!4v1596983395012!5m2!1sja!2sjp" width="400" height="400" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>  　
+      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2915.292683710793!2d141.34978005061572!3d43.05631149873763!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5f0b2984f7007d33%3A0x39581aad1cec34b2!2z6Ieq6YGK56m66ZaTIOOCouODvOODkOODs-acreW5jOW6lw!5e0!3m2!1sja!2sjp!4v1596983395012!5m2!1sja!2sjp" width="400" height="400" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0" align="left"></iframe>  　
         <section class="shop-data-table">
-        <table border="5" "margin-left:30px" style="font-size: 15pt; line-height: 200%;">
+        <table border="6" align="right" style="font-size: 15pt; line-height: 200%;">
 						<tr>
 								<th>営業時間</th>
 								<td>24時間営業</td>
@@ -59,7 +59,26 @@
 				</table>
 			</section>
 		</div> <br clear="left"> </p>
-        </body>
+        <div style="margin-bottom:50px"></div>
+        <h3>◆自遊空間アーバン札幌店のダーツ設備
+        <h6>自遊空間アーバン札幌店のダーツ設備は以下の通り。</h6>
+        　　<p>：ダーツライブ3　×1台</p>
+　　　　　　<p>：ダーツライブ2　×2台</p>
+　　　　　　<p>：vsフェニックス　×3台</p>
+            <p>ライブ派の人もフェニックス派の人も楽しめます。</p>
+        　　<p>よくネットカフェではダーツの近くにビリヤード台があるのですが、アーバン札幌店はありません。なのでビリヤードの球を打つ音が無く静かな環境で投げられると思います。</p>
+        <div style="margin-bottom:50px"></div>
+        <h3>◆どんな雰囲気？</h3>
+            <p>店内は薄明るくて静かなことが多いです。複数人でワイワイというよりは１人で淡々と練習している人が多い印象があります。</p>
+            <p>ただ広めのソファーが１つ１つの席にあるので複数人で行っても不自由なく楽しめます。</p>
+        <div style="margin-bottom:50px"></div>
+        <h3>◆直してほしいところ、不満点？</h3>
+            <p>ライブ２に限った話ですがたまに脆くなっていて刺さらなかったり反応しなかったりという所があるので新しいセグメントに交換してくれるとさらに快適になりますね。</p>
+        　　<P>これはあくまで噂なのですがライブ３のスローラインのねじが外れて壊れてるという話も聞きました、、直ってくれていることを願います。</P>
+        <div style="margin-bottom:50px"></div>
+        <h3>◆まとめ</h3>
+            <p>正直、他に紹介しているdiceなどに比べると環境面など総合的に劣ります。ですが１人で淡々と練習したい、静かなところで投げたいという方にはアーバン札幌店をお勧めします。</p>
+            <P>狸小路から数分で行けるので私の中ではDICEや快活クラブが満員だった時のサブという位置づけで利用させてもらっています。</P>
         <div class="row">
         <div class="col-md-8 mx-auto">
 @endsection

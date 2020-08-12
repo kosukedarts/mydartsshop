@@ -26,7 +26,7 @@ Route::group(['prefix' => 'admin',], function() {
     Route::get('project/arban', 'Admin\ProjectController@arban');
     Route::get('project/teine', 'Admin\ProjectController@teine');
     Route::get('project/minami', 'Admin\ProjectController@minami');
-    Route::get('project/kaikatsu', 'Admin\ProjectController@kaikatsu');
+    Route::get('project/kai', 'Admin\ProjectController@kai');
     Route::get('project/round', 'Admin\ProjectController@round');
     Route::get('project/dice', 'Admin\ProjectController@dice');
 });
