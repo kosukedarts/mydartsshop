@@ -19,7 +19,7 @@
                                     {{ str_limit($post->body, 1500) }}
                                 </div>
                                 <div class="url">
-                                    {{ str_limit($post->url, 150) }}
+                                    <a href="">{{ str_limit($post->url, 150) }}</a>
                                 </div>
                             </div>
                             <div class="image col-md-6 text-right mt-4">
