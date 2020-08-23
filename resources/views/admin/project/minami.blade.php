@@ -76,7 +76,6 @@
             <p>私的には狸小路で自遊空間に行くならアーバン札幌店をお勧めします。</p> 
         </body>
         <footer>
-    <p><a href="https://5ab816667ade45009462a2e3a30e0349.vfs.cloud9.us-east-2.amazonaws.com/admin/project/comment">コメントを書く</a></p>
 　　</footer>
         <div class="row">
         <div class="col-md-8 mx-auto">

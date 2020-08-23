@@ -80,7 +80,6 @@
 　　　　　　<p>DICEめちゃくちゃ良いです。悪いところをあえてあげるなら店内が暗いことですね。</p>
         　　<p>私がDICEを使う上で驚いたことは予約が取れる所です。なんとDICEは１人から予約ができます！特に土日は混むので週末に利用するときは予約を使って余裕を持って行くことをお勧めします👍</p>
         <footer>
-    <p><a href="https://5ab816667ade45009462a2e3a30e0349.vfs.cloud9.us-east-2.amazonaws.com/admin/project/comment">コメントを書く</a></p>
 　　</footer>
         <div class="row">
         <div class="col-md-8 mx-auto">

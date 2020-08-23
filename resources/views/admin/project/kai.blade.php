@@ -74,7 +74,6 @@
         　　<p>複数人で来ても十分楽しめると思います。ただ３人以上になると座席が少し狭くて窮屈な印象を持つ人いるかもしれません。</p>
         </body>
         <footer>
-    <p><a href="https://5ab816667ade45009462a2e3a30e0349.vfs.cloud9.us-east-2.amazonaws.com/admin/project/comment">コメントを書く</a></p>
 　　</footer>
         <div class="row">
         <div class="col-md-8 mx-auto">

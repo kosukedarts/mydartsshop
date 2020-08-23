@@ -81,7 +81,7 @@
         </body>
         <footer>
     <p><a href="https://5ab816667ade45009462a2e3a30e0349.vfs.cloud9.us-east-2.amazonaws.com/admin/project/comment">コメントを書く</a></p>
-　　</footer>
+　　    </footer>
         <div class="row">
         <div class="col-md-8 mx-auto">
 @endsection

@@ -86,7 +86,6 @@
             <P>劣っているところを強いてあげるとしたらソフトクリームがないというのと料金がネットカフェに比べて少し割高というところですね。しかし料金より質を求める方、ライブ３を思う存分投げたい方は１度訪れてみてはいかがでしょうか</P>
         </body>
         <footer>
-    <p><a href="https://5ab816667ade45009462a2e3a30e0349.vfs.cloud9.us-east-2.amazonaws.com/admin/project/comment">コメントを書く</a></p>
 　　</footer>
         <div class="row">
         <div class="col-md-8 mx-auto">

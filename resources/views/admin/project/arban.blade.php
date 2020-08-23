@@ -76,7 +76,6 @@
             <p>正直、他に紹介しているdiceなどに比べると環境面など総合的に劣ります。ですが１人で淡々と練習したい、静かなところで投げたいという方にはアーバン札幌店をお勧めします。</p>
             <P>狸小路から数分で行けるので私の中ではDICEや快活クラブが満員だった時のサブという位置づけで利用させてもらっています。</P>
     <footer>
-    <p><a href="https://5ab816667ade45009462a2e3a30e0349.vfs.cloud9.us-east-2.amazonaws.com/admin/project/comment">コメントを書く</a></p>
 　　</footer>
         <div class="row">
         <div class="col-md-8 mx-auto">
