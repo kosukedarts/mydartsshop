@@ -61,7 +61,4 @@
             </main>
         </div>
     </body>
-    <footer>
-  　　<p><center>Copyright ©kosukeのダーツ日記 All rights reserved.</center></p>
-　　</footer>
 </html>

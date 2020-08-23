@@ -50,8 +50,7 @@ class ProjectController extends Controller
   {
       return view('admin.project.dice');
   }
-
-
+  
   public function create(Request $request)
   {
       $this->validate($request, Project::$rules);

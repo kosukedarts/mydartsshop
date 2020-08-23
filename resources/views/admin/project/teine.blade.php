@@ -75,6 +75,9 @@
             <p>個人的には可もなく不可もなくと言ったところです。ライブ派の人はライブ３を格安で投げられるのでそこは加点ポイントですね（上から目線）</p>
             <p>自遊空間というと汚いというかあまりいいイメージを持たないかもしれませんが、ここは分煙ですしまた利用してもいいんじゃないかなと思っています。</p>
         </body>
+        <footer>
+    <p><a href="https://5ab816667ade45009462a2e3a30e0349.vfs.cloud9.us-east-2.amazonaws.com/admin/project/comment">コメントを書く</a></p>
+　　</footer>
         <div class="row">
         <div class="col-md-8 mx-auto">
 @endsection

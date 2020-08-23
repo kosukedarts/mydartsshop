@@ -16,12 +16,12 @@ Route::get('/', function () {
 });
 
 Route::group(['prefix' => 'admin',], function() {
-    Route::get('project/create', 'Admin\ProjectController@add');
-    Route::post('project/create', 'Admin\ProjectController@create');
-    Route::get('project', 'Admin\ProjectController@index');
-    Route::get('project/edit', 'Admin\ProjectController@edit'); // 追記
-    Route::post('project/edit', 'Admin\ProjectController@update');
-    Route::get('project/delete', 'Admin\ProjectController@delete');
+    Route::get('project/create', 'Admin\ProjectController@add')->middleware('auth');
+    Route::post('project/create', 'Admin\ProjectController@create')->middleware('auth');
+    Route::get('project', 'Admin\ProjectController@index')->middleware('auth');
+    Route::get('project/edit', 'Admin\ProjectController@edit')->middleware('auth'); // 追記
+    Route::post('project/edit', 'Admin\ProjectController@update')->middleware('auth');
+    Route::get('project/delete', 'Admin\ProjectController@delete')->middleware('auth');
     Route::get('project/hive', 'Admin\ProjectController@hive');
     Route::get('project/arban', 'Admin\ProjectController@arban');
     Route::get('project/teine', 'Admin\ProjectController@teine');
@@ -29,6 +29,8 @@ Route::group(['prefix' => 'admin',], function() {
     Route::get('project/kai', 'Admin\ProjectController@kai');
     Route::get('project/round', 'Admin\ProjectController@round');
     Route::get('project/dice', 'Admin\ProjectController@dice');
+    Route::get('project/comment', 'Admin\CommentController@post');
+    Route::post('project/comment', 'Admin\CommentController@comment');
 });
 
 Auth::routes();

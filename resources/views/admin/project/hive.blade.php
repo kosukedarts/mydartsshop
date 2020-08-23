@@ -79,6 +79,9 @@
             <p>何度も言ってますが、ダーツを始めたい！興味がある！という人は最初にこのダーツハイブ札幌に行くことをお勧めします。</p>
         　　<P>そしてダーツの世界というものを１回体験してみてください。最初は「入りずらい」「怖い」という印象もあるかもしれませんが勇気を振り絞ってドアを開けてみてください。きっと優しく迎えてくれるはずです。</P>
         </body>
+        <footer>
+    <p><a href="https://5ab816667ade45009462a2e3a30e0349.vfs.cloud9.us-east-2.amazonaws.com/admin/project/comment">コメントを書く</a></p>
+　　</footer>
         <div class="row">
         <div class="col-md-8 mx-auto">
 @endsection
