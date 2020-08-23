@@ -5,6 +5,9 @@ namespace App\Http\Controllers\Admin;
 use Illuminate\Http\Request;
 use App\Http\Controllers\Controller;
 use App\Comment;
+use Carbon\Carbon;
+use App\History;
+use Storage;
 
 class CommentController extends Controller
 {
