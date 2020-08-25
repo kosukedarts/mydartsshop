@@ -44,17 +44,17 @@
 　　　</for>
       <dt>
 <h4 class="subtitle color-primary">雰囲気で検索</h4></dt>
-　　　　<form action="" method="post">
-　　　　<input type="radio" name=“sample” value="1">初心者歓迎
-　　　　<input type="radio" name=“sample” value="2">一人でも入りやすい
-　　　　<input type="radio" name=“sample” value="3">ガッツリ練習
-　　　　<input type="radio" name=“sample” value="4">対戦
-　　　　<input type="radio" name=“sample” value="5">安い
-　　　　<input type="radio" name=“sample” value="6">家族と一緒に
-　　　　<input type="radio" name=“sample” value="7">品揃え豊富
-　　　　<input type="radio" name=“sample” value="8">デート
-　　　　<input type="radio" name=“sample” value="9">フード、ドリンクが充実
-      　<input type="submit" name="submit" value="送信">
+　　　　<form action="kensaku.php" method="post">
+　　　　<input type="radio" name=“mood[]” value="初心者歓迎">初心者歓迎
+　　　　<input type="radio" name=“mood[]” value="一人でも入りやすい">一人でも入りやすい
+　　　　<input type="radio" name=“mood[]” value="ガッツリ練習">ガッツリ練習
+　　　　<input type="radio" name=“mood[]” value="対戦">対戦
+　　　　<input type="radio" name=“mood[]” value="安い">安い
+　　　　<input type="radio" name=“mood[]” value="家族と一緒に">家族と一緒に
+　　　　<input type="radio" name=“mood[]” value="品揃え豊富">品揃え豊富
+　　　　<input type="radio" name=“mood[]” value="デート">デート
+　　　　<input type="radio" name=“mood[]” value="フード、ドリンクが充実">フード、ドリンクが充実
+     　 <input type="submit" name="submit" value="絞り込む"><br />
       　</form>
       <div id="app">
               <div class="collapse navbar-collapse" id="navbarSupportedContent">

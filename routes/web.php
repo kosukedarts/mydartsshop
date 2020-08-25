@@ -30,7 +30,6 @@ Route::group(['prefix' => 'admin',], function() {
     Route::get('project/round', 'Admin\ProjectController@round');
     Route::get('project/dice', 'Admin\ProjectController@dice');
     Route::get('project/profile', 'Admin\ProjectController@profile');
-    Route::get('/', 'Admin\ProjectController@check');
 });
 
 Auth::routes();
