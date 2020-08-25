@@ -1,5 +1,7 @@
 body {
   color: black;
+      background-image: url(http://www.netyasun.com/home/bk-img/b121.jpg);     /* 背景画像指定 */
+    background-repeat: repeat;
 }
 
 .header {
@@ -47,9 +49,18 @@ body {
     .body {
       font-size: 1.5em;
     }
+    .day {
+      font-size: 1.2em;
+    }
+    .adress {
+      font-size: 1.2em;
+    }
+    .mood {
+      font-size: 1.2em;
+    }
     .image {
       img {
-    width: 320px; height: 240px;
+    width: 400px; height: 320px;
       }
     }
   }

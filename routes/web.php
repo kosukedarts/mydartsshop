@@ -29,8 +29,7 @@ Route::group(['prefix' => 'admin',], function() {
     Route::get('project/kai', 'Admin\ProjectController@kai');
     Route::get('project/round', 'Admin\ProjectController@round');
     Route::get('project/dice', 'Admin\ProjectController@dice');
-    Route::get('project/comment', 'Admin\CommentController@post');
-    Route::post('project/comment', 'Admin\CommentController@comment');
+    Route::get('project/profile', 'Admin\ProjectController@profile');
 });
 
 Auth::routes();

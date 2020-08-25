@@ -14,7 +14,7 @@
       <span><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/ankokoko/20180810/20180810130104.jpg" width="300" height="240" ></span>
       <span><img src="https://msp.c.yimg.jp/images/v2/FUTi93tXq405grZVGgDqGyL5nc0JPOaUOtLWCRSwKb5x0EhmYEz9re4BenktujdEH2BeWCnnRhcHGCaNnYT---R6QoV-6HppQ2-UFxZJ8wmV7sTLE3n3KnjD-x4inTWK6kzXrzQlg9mw4SLl82cJ5ykbkqjKswAjuBVYiRiTks6Vzua3c4MjoDAwngCiK_6XWFV00-fwYkXUln6Fj_cpyCaH1ITKhCkK4-dKeXzNm_ToHCV_apagSn9XKZQdiO4e2t54QQdtTBJ0BAh-8non6vfEHMjmM-p8ZR1ZDjnin0v1gM4HpzZr4eq_7h8pzvWy" width="300" height="240" ></span>
       <div style="margin-bottom:25px"></div>
-      <h5>狸小路から１本北側にある自遊空間札幌南二条店。<div>
+      <h5>狸小路から１本北側にいったところにある自遊空間札幌南二条店。<div>
     入り口がわかりずらく私が初めて行った時は少し迷ったのを覚えています笑。<div>
     ダーツが出来る自遊空間の中でも品揃えがよくタングステンダーツの試投も出来ます。</div></h5>
       <div style="margin-bottom:50px"></div>
@@ -48,7 +48,7 @@
 						<tr>
 								<th>雰囲気</th>
 								<td>
-									初心者歓迎 /一人でも入りやすい /ガッツリ練習</td>
+									初心者歓迎/一人でも入りやすい/ガッツリ練習/安い</td>
 						</tr>
 						<tr>
 								<th>店舗HP</th>
@@ -74,6 +74,7 @@
         <h3>◆まとめ</h3>
             <p>自遊空間 札幌南二条店は環境的にはもう一歩って感じでした。<p>
             <p>私的には狸小路で自遊空間に行くならアーバン札幌店をお勧めします。</p> 
+        <hr>
         </body>
         <footer>
 　　</footer>

@@ -17,7 +17,7 @@
       </div>
       <div style="margin-bottom:25px"></div>
     <h5>ダーツ用品をそろえるならここ。<div>
-    ダーツ用品の品揃え豊富は道内トップクラス。ソフトダーツ用品はもちろん、ハード用ダーツも多数。ダーツを始めたいという人もバレルを買い買いたいという人もハイブ札幌に行けば１日で解決します。<div>
+    ダーツ用品の品揃え豊富は道内トップクラス。ソフトダーツ用品はもちろん、ハード用ダーツも多数。ダーツを始めたいという人もバレルを買い替えたいという人もハイブ札幌に行けば１日で解決します。<div>
     私もダーツを始めようと思ったとき、ここを最初に訪れました。</div></h5>
     <div style="margin-bottom:50px"></div>
     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2914.2631874189115!2d141.30234995061647!3d43.07796189735233!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5f0b298b07fcc0f3%3A0xce51473c7cb8391b!2z44OA44O844OE44OP44Kk44OWIOacreW5jOW6lw!5e0!3m2!1sja!2sjp!4v1596729716180!5m2!1sja!2sjp" width="400" height="400" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0" align="left"></iframe>
@@ -50,7 +50,7 @@
 	        <tr>
 		<th>雰囲気</th>
 	        <td>
-		初心者歓迎 /一人でも入りやすい /ガッツリ練習</td>
+		初心者歓迎/対戦/ガッツリ練習/品揃え豊富</td>
 	        </tr>
 		<tr>
 	        <th>店舗HP</th>
@@ -78,10 +78,10 @@
         <h3>◆まとめ</h3>
             <p>何度も言ってますが、ダーツを始めたい！興味がある！という人は最初にこのダーツハイブ札幌に行くことをお勧めします。</p>
         　　<P>そしてダーツの世界というものを１回体験してみてください。最初は「入りずらい」「怖い」という印象もあるかもしれませんが勇気を振り絞ってドアを開けてみてください。きっと優しく迎えてくれるはずです。</P>
+        <hr>
         </body>
         <footer>
-    <p><a href="https://5ab816667ade45009462a2e3a30e0349.vfs.cloud9.us-east-2.amazonaws.com/admin/project/comment">コメントを書く</a></p>
-　　    </footer>
+　　　　</footer>
         <div class="row">
         <div class="col-md-8 mx-auto">
 @endsection

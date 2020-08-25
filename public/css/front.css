@@ -1,5 +1,10 @@
+@charset "UTF-8";
+
 body {
   color: black;
+  background-image: url(http://www.netyasun.com/home/bk-img/b121.jpg);
+  /* 背景画像指定 */
+  background-repeat: repeat;
 }
 
 .header .logo {
@@ -46,8 +51,20 @@ body {
   font-size: 1.5em;
 }
 
+.posts .post .day {
+  font-size: 1.2em;
+}
+
+.posts .post .adress {
+  font-size: 1.2em;
+}
+
+.posts .post .mood {
+  font-size: 1.2em;
+}
+
 .posts .post .image img {
-  width: 320px;
-  height: 240px;
+  width: 400px;
+  height: 320px;
 }
 

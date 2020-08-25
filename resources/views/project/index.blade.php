@@ -13,10 +13,19 @@
                                     {{ $post->updated_at->format('Y年m月d日') }}
                                 </div>
                                 <div class="title">
-                                    <a href="{{ str_limit($post->url, 150) }}">{{ str_limit($post->title, 150) }}</a>
+                                    <a href="{{ str_limit($post->url, 200) }}">{{ str_limit($post->title, 200) }}</a>
                                 </div>
                                 <div class="body mt-3">
                                     {{ str_limit($post->body, 1500) }}
+                                </div>
+                                <div class="day">
+                                    {{ str_limit($post->day, 200) }}
+                                </div>
+                                <div class="adress">
+                                    {{ str_limit($post->adress, 200) }}
+                                </div>
+                                <div class="mood">
+                                    {{ str_limit($post->mood, 200) }}
                                 </div>
                             </div>
                             <div class="image col-md-6 text-right mt-4">

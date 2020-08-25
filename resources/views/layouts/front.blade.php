@@ -1,5 +1,3 @@
-
-
 <!DOCTYPE html>
 <html lang="{{ app()->getLocale() }}">
     <head>
@@ -36,43 +34,36 @@
       <hr>
       <h5><center>私が今まで行ったことのある札幌のダーツショップやダーツが出来るネットカフェについて独断と偏見で綴っていきます。</center></h5>
       <h5><center>これからも新しいダーツショップやダーツバーを開拓していく予定なので、その都度更新していきます。</center></h5>
+      <h6 style="text-align:right">そもそもkosukeって誰？？<a href="https://5ab816667ade45009462a2e3a30e0349.vfs.cloud9.us-east-2.amazonaws.com/admin/project/profile">⇒プロフィール詳細</a></h6>
+      <form method="get" action="http://www.google.co.jp/search" target="_blank">
+<Div Align="right"><input type="text" name="q" size="31" maxlength="255" value=""></Div>
+<Div Align="right"><input type="submit" name="btng" value="検索"></Div>
+<input type="hidden" name="hl" value="ja">
+<input type="hidden" name="sitesearch" value="web-officer.com">
+</form>
+　　　</for>
+      <dt>
+<h4 class="subtitle color-primary">雰囲気で検索</h4>
+	</dt>
+	<dd>
+　　　　<input type="radio" name=“sample” value="1">初心者歓迎
+　　　　<input type="radio" name=“sample” value="2">一人でも入りやすい
+　　　　<input type="radio" name=“sample” value="3">ガッツリ練習
+　　　　<input type="radio" name=“sample” value="4">対戦
+　　　　<input type="radio" name=“sample” value="5">安い
+　　　　<input type="radio" name=“sample” value="6">家族と一緒に
+　　　　<input type="radio" name=“sample” value="7">品揃え豊富
+　　　　<input type="radio" name=“sample” value="8">デート
+　　　　<input type="radio" name=“sample” value="9">フード、ドリンクが充実
+								</dd>
+							</dl>
       <div id="app">
-            <nav class="navbar navbar-expand-md navbar-dark navbar-laravel">
-                <div class="container">
-                   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                        <span class="navbar-toggler-icon"></span>
-                    </button>
-                   <div class="collapse navbar-collapse" id="navbarSupportedContent">
+              <div class="collapse navbar-collapse" id="navbarSupportedContent">
                         <!-- Left Side Of Navbar -->
                         <ul class="navbar-nav mr-auto">
-
                         </ul>
-
                         <!-- Right Side Of Navbar -->
                         <ul class="navbar-nav ml-auto">
-                       <!-- Authentication Links -->
-                       {{-- ログインしていなかったらログイン画面へのリンクを表示 --}}
-                        @guest
-                        {{-- ログインしていたらユーザー名とログアウトボタンを表示 --}}
-                        @else
-                            <li class="nav-item dropdown">
-                                <a id="navbarDropdown" class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" v-pre>
-                                    {{ Auth::user()->name }} <span class="caret"></span>
-                                </a>
-
-                                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                    <a class="dropdown-item" href="{{ route('logout') }}"
-                                       onclick="event.preventDefault();
-                                                     document.getElementById('logout-form').submit();">
-                                        {{ __('Logout') }}
-                                    </a>
-
-                                    <form id="logout-form" action="{{ route('logout') }}" method="POST" style="display: none;">
-                                        @csrf
-                                    </form>
-                                </div>
-                            </li>
-                            @endguest
                         </ul>
                     </div>
                 </div>
