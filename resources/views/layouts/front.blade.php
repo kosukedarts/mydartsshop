@@ -43,9 +43,8 @@
 </form>
 　　　</for>
       <dt>
-<h4 class="subtitle color-primary">雰囲気で検索</h4>
-	</dt>
-	<dd>
+<h4 class="subtitle color-primary">雰囲気で検索</h4></dt>
+　　　　<form action="" method="post">
 　　　　<input type="radio" name=“sample” value="1">初心者歓迎
 　　　　<input type="radio" name=“sample” value="2">一人でも入りやすい
 　　　　<input type="radio" name=“sample” value="3">ガッツリ練習
@@ -55,8 +54,8 @@
 　　　　<input type="radio" name=“sample” value="7">品揃え豊富
 　　　　<input type="radio" name=“sample” value="8">デート
 　　　　<input type="radio" name=“sample” value="9">フード、ドリンクが充実
-								</dd>
-							</dl>
+      　<input type="submit" name="submit" value="送信">
+      　</form>
       <div id="app">
               <div class="collapse navbar-collapse" id="navbarSupportedContent">
                         <!-- Left Side Of Navbar -->
