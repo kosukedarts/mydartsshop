@@ -44,16 +44,16 @@
 　　　</for>
       <dt>
 <h4 class="subtitle color-primary">雰囲気で検索</h4></dt>
-　　　　<form action="kensaku.php" method="post">
-　　　　<input type="radio" name=“mood[]” value="初心者歓迎">初心者歓迎
-　　　　<input type="radio" name=“mood[]” value="一人でも入りやすい">一人でも入りやすい
-　　　　<input type="radio" name=“mood[]” value="ガッツリ練習">ガッツリ練習
-　　　　<input type="radio" name=“mood[]” value="対戦">対戦
-　　　　<input type="radio" name=“mood[]” value="安い">安い
-　　　　<input type="radio" name=“mood[]” value="家族と一緒に">家族と一緒に
-　　　　<input type="radio" name=“mood[]” value="品揃え豊富">品揃え豊富
-　　　　<input type="radio" name=“mood[]” value="デート">デート
-　　　　<input type="radio" name=“mood[]” value="フード、ドリンクが充実">フード、ドリンクが充実
+　　　　<form action=""{{ action('ProjectController@index') }}"" method="get">
+　　　　<input type="radio" name=“mood” value="初心者歓迎">初心者歓迎
+　　　　<input type="radio" name=“mood” value="一人でも入りやすい">一人でも入りやすい
+　　　　<input type="radio" name=“mood” value="ガッツリ練習">ガッツリ練習
+　　　　<input type="radio" name=“mood” value="対戦">対戦
+　　　　<input type="radio" name=“mood” value="安い">安い
+　　　　<input type="radio" name=“mood” value="家族と一緒に">家族と一緒に
+　　　　<input type="radio" name=“mood” value="品揃え豊富">品揃え豊富
+　　　　<input type="radio" name=“mood” value="デート">デート
+　　　　<input type="radio" name=“mood” value="フード、ドリンクが充実">フード、ドリンクが充実
      　 <input type="submit" name="submit" value="絞り込む"><br />
       　</form>
       <div id="app">

@@ -79,9 +79,9 @@ class ProjectController extends Controller
   }
 
 
-
-public function index(Request $request)
+  public function index(Request $request)
   {
+      //dd($request);
       $cond_title = $request->cond_title;
       if ($cond_title != '') {
           // 検索されたら検索結果を取得する
@@ -93,7 +93,7 @@ public function index(Request $request)
       return view('admin.project.index', ['posts' => $posts, 'cond_title' => $cond_title]);
   }
 
-public function edit(Request $request)
+  public function edit(Request $request)
   {
       // News Modelからデータを取得する
       $project = Project::find($request->id);
