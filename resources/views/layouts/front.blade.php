@@ -34,7 +34,7 @@
       <hr>
       <h5><center>私が今まで行ったことのある札幌のダーツショップやダーツが出来るネットカフェについて独断と偏見で綴っていきます。</center></h5>
       <h5><center>これからも新しいダーツショップやダーツバーを開拓していく予定なので、その都度更新していきます。</center></h5>
-      <h6 style="text-align:right">そもそもkosukeって誰？？<a href="https://5ab816667ade45009462a2e3a30e0349.vfs.cloud9.us-east-2.amazonaws.com/admin/project/profile">⇒プロフィール詳細</a></h6>
+      <h6 style="text-align:right">そもそもkosukeって誰？？<a href="/admin/project/profile">⇒プロフィール詳細</a></h6>
       <form method="get" action="http://www.google.co.jp/search" target="_blank">
 <Div Align="right"><input type="text" name="q" size="31" maxlength="255" value=""></Div>
 <Div Align="right"><input type="submit" name="btng" value="検索"></Div>
