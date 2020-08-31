@@ -27,11 +27,28 @@
                         </div>
                     </div>
                     <div class="form-group row">
+                        <label class="col-md-2" for="url">定休日</label>
+                        <div class="col-md-10">
+                            <input type="text" class="form-control" name="day" value="{{ old('day') }}">
+                        </div>
+                    </div>
+                    <div class="form-group row">
                         <label class="col-md-2" for="url">リンク</label>
                         <div class="col-md-10">
                             <input type="text" class="form-control" name="url" value="{{ $project_form->url }}">
                         </div>
                     </div>
+                    <div class="form-group row">
+                        <label class="col-md-2" for="url">住所</label>
+                        <div class="col-md-10">
+                            <input type="text" class="form-control" name="adress" value="{{ old('adress') }}">
+                        </div>
+                    </div>
+                    <div class="form-group row">
+                        <label class="col-md-2" for="url">雰囲気</label>
+                        <div class="col-md-10">
+                            <input type="text" class="form-control" name="mood" value="{{ old('mood') }}">
+                        </div>
                     <div class="form-group row">
                         <label class="col-md-2" for="image">画像</label>
                         <div class="col-md-10">
