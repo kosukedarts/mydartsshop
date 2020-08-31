@@ -30,7 +30,7 @@
 　　 <body>
       <div class="container">
       <div class="header-title-area">
-      <h1><center><a href="https://5ab816667ade45009462a2e3a30e0349.vfs.cloud9.us-east-2.amazonaws.com/" style="text-decoration: none;">kosukeのきままなダーツ日記</a></center></h1>
+      <h1><center><a href="/" style="text-decoration: none;">kosukeのきままなダーツ日記</a></center></h1>
       <hr>
       <h5><center>私が今まで行ったことのある札幌のダーツショップやダーツが出来るネットカフェについて独断と偏見で綴っていきます。</center></h5>
       <h5><center>これからも新しいダーツショップやダーツバーを開拓していく予定なので、その都度更新していきます。</center></h5>
@@ -42,20 +42,6 @@
 <input type="hidden" name="sitesearch" value="web-officer.com">
 </form>
 　　　</for>
-      <dt>
-<h4 class="subtitle color-primary">雰囲気で検索</h4></dt>
-　　　　<form action=""{{ action('ProjectController@index') }}"" method="get">
-　　　　<input type="radio" name=“mood” value="初心者歓迎">初心者歓迎
-　　　　<input type="radio" name=“mood” value="一人でも入りやすい">一人でも入りやすい
-　　　　<input type="radio" name=“mood” value="ガッツリ練習">ガッツリ練習
-　　　　<input type="radio" name=“mood” value="対戦">対戦
-　　　　<input type="radio" name=“mood” value="安い">安い
-　　　　<input type="radio" name=“mood” value="家族と一緒に">家族と一緒に
-　　　　<input type="radio" name=“mood” value="品揃え豊富">品揃え豊富
-　　　　<input type="radio" name=“mood” value="デート">デート
-　　　　<input type="radio" name=“mood” value="フード、ドリンクが充実">フード、ドリンクが充実
-     　 <input type="submit" name="submit" value="絞り込む"><br />
-      　</form>
       <div id="app">
               <div class="collapse navbar-collapse" id="navbarSupportedContent">
                         <!-- Left Side Of Navbar -->
