@@ -44,17 +44,6 @@
 								<td class="tel-number"><a href="tel:011-520-1022">011-520-1022</a></td>
 							</tr>
 						<tr rowspan="4" class="pc-view">
-								<th>最寄り駅</th>
-								<td>
-									札幌市営地下鉄南北線&nbsp;
-											すすきの駅&nbsp;
-											225m&nbsp;
-													</td>
-								<td>
-									</td>
-								<td>
-									</td>
-							</tr>
 						<tr>
 								<th>雰囲気</th>
 								<td>
