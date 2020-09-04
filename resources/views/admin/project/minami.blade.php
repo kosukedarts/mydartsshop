@@ -56,7 +56,6 @@
 						</tr>
 						<tr>
 						</tbody>
-				</table>
 			</section>
 		</div> <br clear="left"> </p>
         <div style="margin-bottom:50px"></div>

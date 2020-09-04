@@ -54,7 +54,6 @@
 								<td><a href="https://jiqoo.jp/shop/9931779/" target="_blank" >https://jiqoo.jp/shop/9931779/</a></td>
 						</tr>
 						<tr>
-				</table>
 			</section>
 		</div> <br clear="left"> </p>
         <div style="margin-bottom:50px"></div>
