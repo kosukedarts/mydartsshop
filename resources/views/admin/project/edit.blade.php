@@ -27,7 +27,7 @@
                         </div>
                     </div>
                     <div class="form-group row">
-                        <label class="col-md-2" for="url">定休日</label>
+                        <label class="col-md-2" for="day">定休日</label>
                         <div class="col-md-10">
                             <input type="text" class="form-control" name="day" value="{{ old('day') }}">
                         </div>
@@ -39,16 +39,17 @@
                         </div>
                     </div>
                     <div class="form-group row">
-                        <label class="col-md-2" for="url">住所</label>
+                        <label class="col-md-2" for="adress">住所</label>
                         <div class="col-md-10">
                             <input type="text" class="form-control" name="adress" value="{{ old('adress') }}">
                         </div>
                     </div>
                     <div class="form-group row">
-                        <label class="col-md-2" for="url">雰囲気</label>
+                        <label class="col-md-2" for="mood">雰囲気</label>
                         <div class="col-md-10">
                             <input type="text" class="form-control" name="mood" value="{{ old('mood') }}">
                         </div>
+                    </div>
                     <div class="form-group row">
                         <label class="col-md-2" for="image">画像</label>
                         <div class="col-md-10">
