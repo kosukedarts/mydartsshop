@@ -22,7 +22,7 @@
     <div style="margin-bottom:50px"></div>
     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2914.2631874189115!2d141.30234995061647!3d43.07796189735233!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5f0b298b07fcc0f3%3A0xce51473c7cb8391b!2z44OA44O844OE44OP44Kk44OWIOacreW5jOW6lw!5e0!3m2!1sja!2sjp!4v1596729716180!5m2!1sja!2sjp" width="400" height="400" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0" align="left"></iframe>
       <section class="shop-data-table">
-        　<table border="6" align="right" style= "font-size: 16pt; line-height: 250%;">
+        　<table border="6" align="right" style= "font-size: 16pt; line-height: 200%;">
 		        <tr>
 		              <th>営業時間</th>
 		              <td>平日 14:00～23:00　土,日,祝 12:00～23:00</td>
