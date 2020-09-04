@@ -58,13 +58,12 @@
 						<tr>
 								<th>雰囲気</th>
 								<td>
-									初心者歓迎/友人とわいわい/デート/家族と</td>
+									初心者歓迎/友人とわいわい/デート/家族と一緒に</td>
 							</tr>
 								<th>店舗HP</th>
 								<td><a href="http://www.round1.co.jp/" target="_blank" >http://www.round1.co.jp/</a></td>
 							</tr>
-							<tr>
-				</table>
+							</table>
 			</section>
 		</div> <br clear="left"> </p>
         <div style="margin-bottom:50px"></div>
