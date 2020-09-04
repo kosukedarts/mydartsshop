@@ -54,8 +54,7 @@
 								<th>店舗HP</th>
 								<td><a href="https://jiqoo.jp/shop/9931784/" target="_blank" >https://jiqoo.jp/shop/9931784/</a></td>
 						</tr>
-						<tr>
-						</tbody>
+						</table>
 			</section>
 		</div> <br clear="left"> </p>
         <div style="margin-bottom:50px"></div>
