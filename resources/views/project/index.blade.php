@@ -17,6 +17,7 @@
 　　　　<input type="radio" name="mood" value="フード、ドリンクが充実">フード、ドリンクが充実
      　 <input type="submit" name="submit" value="絞り込む"><br />
         </form>
+            <br>
             <div class="posts col-md-8 mx-auto mt-3">
                 @foreach($posts as $post)
                     <div class="post">
