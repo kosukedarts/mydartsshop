@@ -17,9 +17,9 @@
       <h5>手稲の町中に佇む自遊空間手稲前田店。手稲駅から徒歩２０分くらいの距離にあります。<div>
     実は手稲にもしれっとダーツが出来るネットカフェがあります。普段、札幌近辺でダーツをしている方はご存じないかもしれませんがライブ３もありますし環境も悪くないので一度訪れてみてはいかがでしょうか。</div></h5>
     <div style="margin-bottom:50px"></div>
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2911.894410641704!2d141.2492180506181!3d43.12774429416512!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5f0b26535090d707%3A0xaeec7e83a9c48b08!2z6Ieq6YGK56m66ZaTIOaJi-eosuWJjeeUsOW6lw!5e0!3m2!1sja!2sjp!4v1596989463493!5m2!1sja!2sjp" width="400" height="400" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0" align="left"></iframe>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2911.894410641704!2d141.2492180506181!3d43.12774429416512!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5f0b26535090d707%3A0xaeec7e83a9c48b08!2z6Ieq6YGK56m66ZaTIOaJi-eosuWJjeeUsOW6lw!5e0!3m2!1sja!2sjp!4v1596989463493!5m2!1sja!2sjp" width="420" height="400" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0" align="left"></iframe>
     <section class="shop-data-table">
-        <table border="5" align="right" style="font-size: 16pt; line-height: 250%;">
+        <table border="5" align="right" style="font-size: 14pt; line-height: 250%;">
 						<tr>
 								<th>営業時間</th>
 								<td>24時間営業</td>
@@ -47,7 +47,7 @@
 						<tr>
 								<th>雰囲気</th>
 								<td>
-								　　初心者歓迎/一人でも入りやすい/ガッツリ練習/安い</td>
+								初心者歓迎/一人でも入りやすい/ガッツリ練習/安い</td>
 						</tr>
 						<tr>
 								<th>店舗HP</th>
@@ -62,14 +62,14 @@
         <h6>自遊空間 手稲前田店のダーツ設備は以下の通り。</h6>
             <p>：ダーツライブ3　×1台</p>
             <p>：ダーツライブ2　×2台</p>
-　　　　　　<p>：vsフェニックスS ×4台</p>
+            <p>：vsフェニックスS ×4台</p>
             <p>：vsフェニックス　×1台</p>
             <p>台数を見てもらえれば分かりますがライブ派、フェニックス派関係なく楽しめます。そしてライブ３も１台設置済み。</p>
             <p>ダーツグッズも必要最低限のものは用意されているので、チップの予備が無くなったりシャフトが折れたということがあっても安心です。</p>
         <div style="margin-bottom:50px"></div>
         <h3>◆どんな雰囲気？</h3>
             <p>ダーツのみで１部屋使われているのでとても静かです。ネットカフェでよくあるビリヤード台が近くにあるということはありません。</p>
-            <p>全体的に店内の通路は少し狭めです。ですがダーツブースは広いので複数人でも不自由なく利用できます。</p>
+            <p>全体的に店内の通路は狭めで窮屈な印象があります。ですがダーツブースは広いので複数人でも不自由なく利用できます。</p>
         <div style="margin-bottom:50px"></div>
         <h3>◆まとめ</h3>
             <p>個人的には可もなく不可もなくと言ったところです。ライブ派の人はライブ３を格安で投げられるのでそこは加点ポイントですね（上から目線）</p>
