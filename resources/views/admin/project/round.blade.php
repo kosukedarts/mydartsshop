@@ -21,7 +21,7 @@
     <div style="margin-bottom:50px"></div>
     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2915.39388286631!2d141.35180625061568!3d43.054182798873754!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5f0b29869d52b8e9%3A0xfa8472452c7d0feb!2z44Op44Km44Oz44OJ44Ov44OzIOacreW5jOOBmeOBmeOBjeOBruW6lw!5e0!3m2!1sja!2sjp!4v1596990928967!5m2!1sja!2sjp" width="400" height="400" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0" align="left"></iframe>
     <section class="shop-data-table">
-        <table border="4" align="right" style="font-size: 15pt; line-height: 300%;">
+        <table border="4" align="right" style="font-size: 14pt; line-height: 300%;">
             <tr>
 								<th>営業時間 </th>
 								<td>
@@ -58,7 +58,7 @@
 						<tr>
 								<th>雰囲気</th>
 								<td>
-									初心者歓迎/友人とわいわい/デート/家族と一緒に</td>
+									初心者歓迎/友人とわいわい/デート/家族と</td>
 							</tr>
 								<th>店舗HP</th>
 								<td><a href="http://www.round1.co.jp/" target="_blank" >http://www.round1.co.jp/</a></td>
