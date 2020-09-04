@@ -81,7 +81,7 @@
         <hr>
         </body>
         <footer>
-　　　　</footer>
+        </footer>
         <div class="row">
         <div class="col-md-8 mx-auto">
 @endsection
