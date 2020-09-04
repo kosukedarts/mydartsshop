@@ -5,7 +5,7 @@
   <div class="container">
     <figure class="card-thumbnail shop-only">
       <figure>
-        <h2>DiCE札幌狸小路本店</h2> 
+        <h2>DiCE札幌狸小路本店</h2>
           <h11>　　dartslive公式→<a href="https://search.dartslive.com/jp/shop/1ee2e5140966d70da3f63593b5358cc4">https://search.dartslive.com/jp/shop/1ee2e5140966d70da3f63593b5358cc4</a></h11>
       </figure>
       <p>
