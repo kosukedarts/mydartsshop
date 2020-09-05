@@ -45,7 +45,8 @@
                 <input type="radio" name="mood" value="安い">安い　　　　
                 <input type="radio" name="mood" value="家族と一緒に">家族と一緒に　　　　
                 <input type="radio" name="mood" value="デート">デート　　　　　　　　　　　　
-                <input type="radio" name="mood" value="品揃え豊富">品揃え豊富　　　
+                <div style="margin-bottom:15px"></div>
+                <input type="radio" name="mood" value="品揃え豊富">品揃え豊富　　　　
                 <input type="radio" name="mood" value="フード、ドリンクが充実">フード、ドリンクが充実　　
                 <input type="submit" name="submit" value="絞り込む">
             <div style="margin-bottom:50px"></div>
