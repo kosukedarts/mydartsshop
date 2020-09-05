@@ -15,13 +15,17 @@ class ProjectController extends Controller
         //$posts = Project::all()->sortByDesc('updated_at');
         //dd($request);
         $cond_mood = $request->mood;
+        $cond_adress = $request->adress;
         if ($cond_mood != '') {
           // 検索されたら検索結果を取得する
           $posts = Project::where('mood','like', "%$cond_mood%")->get();
-      } else {
+      } else if ($cond_adress != '') {
+          // 検索されたら検索結果を取得する
+          $posts = Project::where('adress','like', "%$cond_adress%")->get();
           // それ以外はすべてのニュースを取得する
+          } else {
           $posts = Project::all();
       }
-        return view('project.index', ['posts' => $posts, 'cond_mood' => $cond_mood]);
+      return view('project.index', ['posts' => $posts]);
     }
 }
