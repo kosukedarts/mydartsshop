@@ -12,7 +12,7 @@
         <p>
     　<div class="one">
 　　　<span><img src="https://msp.c.yimg.jp/images/v2/FUTi93tXq405grZVGgDqG7EWq3gkaBV51Iq32TvAcGrFGJLYXPsvUcTXV7P3YYThZwu87gLpK7_7hD_Dhrd1QvVSVnp3bcLDOGN6e68b4vppZwKxg50Qtj71uPm0l9oO1BINmiQhJcmg5n9LF5pOC1dyoOsF4T4H-trGq5MwxFeWBSI2ZMYZH7fY-cDYhf9xgoi4OKupXKvq8gGeUBehZLsXvUOBeCLxB3jpWITkJVLOd82QgRR0ynupHEdSEzy6i2N7HYPIaEk8BnrwwT19m7Ek4brXop7WOT47GHJT6pA=?errorImage=false" width="300" height="240" ></span>
-      <span><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/a/ankokoko/20180806/20180806160310.jpg" width="300" height="240" ></span>
+      <span><img src="https://www.bing.com/images/blob?bcid=Szoy9xKj.-EBDQ" width="300" height="240" ></span>
       <span><img src="https://msp.c.yimg.jp/images/v2/FUTi93tXq405grZVGgDqG6Xk5Qi697Oykw-1ThpD8KquQ6Ucyv8dqtBqeUUz9hKR5Do0upNE5ThqyxgGWPlm4wmjK8dWMWkozUqKMFJd0vpfelAUfZbs3yhe-CwOyAC8HRY5-73qA_HI6W0yEKPeqhbMgoKyaEdgdAl-Y2GBvBJ122ucsGpRMMXHaqnPy2bQZ4v-n3KoJ0Ok3GMtievLNbUUKsNK3sk_snQ5syiNj2GGXh2CuZtn8lSlVDwRgsj2?errorImage=false" width="300" height="240" ></span>
       <div style="margin-bottom:25px"></div>
       <h5>自遊空間と同じくらい有名なネットカフェといえばこの快活CLUB。<div>
@@ -60,18 +60,18 @@
         <div style="margin-bottom:50px"></div>
         <h3>◆快活CLUB 札幌狸小路店</h3>
         <h6>快活CLUB 札幌狸小路店のダーツ設備は以下の通り。</h6>
-            <p>：ダーツライブ2　×4台</p>
-            <p>：vsフェニックス　×4台</p>
-            <p>各４台ずつあるのでライブ派もフェニックス派も楽しめます。</p>
-            <p>席の移動も可能なのでどちらかが空いてないという時も片方で待機＆肩慣らしをして、空き次第即移動というのも可能です。私は極ライブ派なのでライブが空くまでフェニで待機というのをよくやります</p>
+        <p>：ダーツライブ2　×4台</p>
+        <p>：vsフェニックス　×4台</p>
+        <p>各４台ずつあるのでライブ派もフェニックス派も楽しめます。</p>
+        <p>席の移動も可能なのでどちらかが空いてないという時も片方で待機＆肩慣らしをして、空き次第即移動というのも可能です。私は極ライブ派なのでライブが空くまでフェニで待機というのをよくやります</p>
         <div style="margin-bottom:50px"></div>
         <h3>◆どんな雰囲気？</h3>
-            <p>たまにカラオケの音が聞こえてくるくらいで基本的には静かです。基本的にといった理由はビリヤード台が近くにあるからです。</p> 
-        　　<p>ビリヤードをやっている人がいると室内が静かな分、球を打った音が大きく響きます。なのでビリヤードのバシーン！という音が苦手な方は人の少なめな平日のみ利用するかイヤホンなどを装着することで多少は軽減できるかと思います。</p>
+        <p>たまにカラオケの音が聞こえてくるくらいで基本的には静かです。基本的にといった理由はビリヤード台が近くにあるからです。</p> 
+        <p>ビリヤードをやっている人がいると室内が静かな分、球を打った音が大きく響きます。なのでビリヤードのバシーン！という音が苦手な方は人の少なめな平日のみ利用するかイヤホンなどを装着することで多少は軽減できるかと思います。</p>
         <div style="margin-bottom:50px"></div>
         <h3>◆まとめ</h3>
-        　　<p>環境は可もなく不可もなくという感じです。料金的な面は学割があるため学生の人は札幌で最安値？と言って良いほどお得に練習できます。</p>
-        　　<p>複数人で来ても十分楽しめると思います。ただ３人以上になると座席が少し狭くて窮屈な印象を持つ人いるかもしれません。</p>
+        <p>環境は可もなく不可もなくという感じです。料金的な面は学割があるため学生の人は札幌で最安値？と言って良いほどお得に練習できます。</p>
+        <p>複数人で来ても十分楽しめると思います。ただ３人以上になると座席が少し狭くて窮屈な印象を持つ人いるかもしれません。</p>
         <hr>
         </body>
         <footer>

@@ -21,6 +21,11 @@ class ProjectController extends Controller
       return view('admin.project.hive');
   }
   
+  public function kita()
+  {
+      return view('admin.project.kita');
+  }
+  
   public function arban()
   {
       return view('admin.project.arban');

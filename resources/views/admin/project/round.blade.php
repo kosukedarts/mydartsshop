@@ -2,18 +2,18 @@
 @section('title', 'ラウンドワン札幌すすきの店')
 
 @section('content')
-　　　　<html>
-　　　　<head>
-　　　　<div class="container"></div>
-        <figure>
+<div class="container">
+    <figure class="card-thumbnail shop-only">
+      <figure>
         <h2>ラウンドワン札幌すすきの店</h2> 
           <h11>　　dartslive公式→<a href="https://search.dartslive.com/jp/shop/94e6f4247653b97e0d9b047a20a7ba1e">https://search.dartslive.com/jp/shop/94e6f4247653b97e0d9b047a20a7ba1e</a></h11>
         </figure>
         <p>
     　<div class="one">
-　　　<span><img src="https://msp.c.yimg.jp/images/v2/FUTi93tXq405grZVGgDqG_omiYkNVym1Sd6g5T38MuSPo2g0HkTDTZveS_4OZQJDiuMp5aZQlF7lep3ot5pPpkaVyPM2oMOzO7OqapMlEaDbRAWtbi2q97zRW_ggiAnxeOTlmBWvYy3kUs_vvafB_3u8MbHVAgk_ch-EDc-GnwI=?errorImage=false" width="300" height="240" ></span>
+    　<span><img src="https://msp.c.yimg.jp/images/v2/FUTi93tXq405grZVGgDqG_omiYkNVym1Sd6g5T38MuSPo2g0HkTDTZveS_4OZQJDiuMp5aZQlF7lep3ot5pPpkaVyPM2oMOzO7OqapMlEaDbRAWtbi2q97zRW_ggiAnxeOTlmBWvYy3kUs_vvafB_3u8MbHVAgk_ch-EDc-GnwI=?errorImage=false" width="300" height="240" ></span>
       <span><img src="https://msp.c.yimg.jp/images/v2/FUTi93tXq405grZVGgDqGwRmqGP9lHKQfav9FsvczrSUUkAHLdnbfXno72e_S1NEmtx_RDvBt5CxdlIn4WGIr6wBP8EzqkgCi2csuwcSwYbmkWSQ51oYeZ_hSUCEkvdDFU6_OIsT_FOECsnL_zJhLRTgJWIIKwvCxMAqGQkEH46ElFN8czfhj9tsJLw5dcyPJzB1bKywCNYil1RSgmvGvl1GG9_8op3AFxQLEajZJFxQjTstgIsvbPV10-7tirHCYpYihcniAcRaBRqed_7ryPAN60-Q5en0KtDb0A166VACPU9dLLiVY8vIQw6oc44Z?errorImage=false" width="300" height="240" ></span>
       <span><img src="https://msp.c.yimg.jp/images/v2/FUTi93tXq405grZVGgDqG8g9dFktImnaS3Jd0022WUuSwbe51FJMClfq5-LdkqaA0z_T8Fv6jmTtZmD4nBgWoucXap4YUAUGQETYJVUU84OQUXnL0Hnuhk7F_LEh0YCcfi5Xr5ubAFhLymuTPZNSSc0vUIn1tycLefABGEBcUrvkurylwE6APsZ01dkmase_XCDBoiiQ1HxzsJzRT-p6l8aTQlBojxgPwhaTQ-cVD4U=?errorImage=false" width="300" height="240" ></span>
+      </div>
       <div style="margin-bottom:25px"></div>
       <h5>ラウンドワンといえばボーリングやスポッチャの印象の人も多いかもしれません。<div>
     ですがダーツするならラウンドワンと言ってもいいほど設備が充実している所が多いです。<div>
@@ -58,20 +58,20 @@
         <div style="margin-bottom:50px"></div>
         <h3>◆ラウンドワン札幌すすきの店</h3>
         <h6>ラウンドワン札幌すすきの店のダーツ設備は以下の通り。</h6>
-        　　<p>：ダーツライブ3　×3台</p>
-            <p>：ダーツライブ2　×3台</p>
-            <p>：vsフェニックス　×4台</p>
-            <p>：vsフェニックスⅩ　×1台</p>
-            <p>最近ライブ３が３台に増大されライブ派は歓喜ですね！！さらにフェニックスⅩという全面スクリーンの最新ダーツマシンもあります。</p>
-        　　<p>ラウンドワンはフリータイム制度があるので投げれば投げるほど料金的にお得になります。ただ無理は禁物ですよ(腕のご利用は計画的に)。</p>
+    <p>：ダーツライブ3　×3台</p>
+    <p>：ダーツライブ2　×3台</p>
+        <p>：vsフェニックス　×4台</p>
+        <p>：vsフェニックスⅩ　×1台</p>
+        <p>最近ライブ３が３台に増大されライブ派は歓喜ですね！！さらにフェニックスⅩという全面スクリーンの最新ダーツマシンもあります。</p>
+        <p>ラウンドワンはフリータイム制度があるので投げれば投げるほど料金的にお得になります。ただ無理は禁物ですよ(腕のご利用は計画的に)。</p>
         <div style="margin-bottom:50px"></div>
         <h3>◆どんな雰囲気？</h3>
-            <p>明るくてざわざわしています。１人で投げている人もいますが複数人で投げている人の方が多い印象があります。</p>
-            <p>ダーツを目的で来たという人よりはゲーセンやボウリングをしたついでに少し投げているという人が多いです。</p>
+        <p>明るくてざわざわしています。１人で投げている人もいますが複数人で投げている人の方が多い印象があります。</p>
+        <p>ダーツを目的で来たという人よりはゲーセンやボウリングをしたついでに少し投げているという人が多いです。</p>
         <div style="margin-bottom:50px"></div>
         <h3>◆まとめ</h3>
-            <p>札幌の中でもダーツ環境は上位に入るぐらいの充実の仕方だと思っています。</p>
-            <p>劣っているところを強いてあげるとしたら料金がネットカフェに比べて少し割高というところですね。しかし料金より質を求める方、ライブ３を思う存分投げたい方は１度訪れてみてはいかがでしょうか</p>
+        <p>札幌の中でもダーツ環境は上位に入るぐらいの充実の仕方だと思っています。</p>
+        <p>劣っているところを強いてあげるとしたら料金がネットカフェに比べて少し割高というところですね。しかし料金より質を求める方、ライブ３を思う存分投げたい方は１度訪れてみてはいかがでしょうか</p>
         <hr>
         </body>
         <footer>
