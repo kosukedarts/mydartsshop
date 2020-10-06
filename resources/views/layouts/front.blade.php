@@ -56,7 +56,7 @@
                 <input type="radio" name="adress" value="中央区">中央区　　　
                 <input type="radio" name="adress" value="西区">西区　　　
                 <input type="radio" name="adress" value="手稲区">手稲区　　
-                <input type="radio" name="adress" value="東区">東区
+                <input type="radio" name="adress" value="東区">東区　　　
                 <input type="submit" name="submit" value="絞り込む">
             </form>
       <div id="app">
